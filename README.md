@@ -4,7 +4,7 @@
 --->
  ##  Hi, I’m Bartłomiej Sobczyk 👋
 - 👀 I’m interested in hydrological and meteorological analysis and programming 
-- 🌱 I’m currently learning Dart and Python 
+- 🌱 I’m currently working with R and Python 
 - 📫 How to reach me? send message on bartlomiej.sobczyk135@gmail.com
 
 <!---
