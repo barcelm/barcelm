@@ -8,11 +8,9 @@
 # 💻 Tech Stack:
 ![OS](https://img.shields.io/badge/OS-Linux-blue?labelColor=gray&style=flat&logo=Linux)
 ![OS](https://img.shields.io/badge/OS-MacOS-blue?labelColor=gray&style=flat&logo=MacOs)
-<p></p>
 ![code](https://img.shields.io/badge/Code-R-blue?labelColor=gray&style=flat&logo=R)
 ![code](https://img.shields.io/badge/Code-Python-blue?labelColor=gray&style=flat&logo=Python)
 ![code](https://img.shields.io/badge/Code-Dart-blue?labelColor=gray&style=flat&logo=Dart)
-<p></p>
 ![Editor](https://img.shields.io/badge/Editor-VSCode-blue?labelColor=gray&style=flat&logo=VSCode)
 ![Editor](https://img.shields.io/badge/Editor-RStudio-blue?labelColor=gray&style=flat&logo=RStudio)
 ![Editor](https://img.shields.io/badge/Editor-Jupyter-blue?labelColor=gray&style=flat&logo=Jupyter)
